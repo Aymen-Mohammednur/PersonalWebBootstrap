@@ -92,3 +92,39 @@ color: #c9c9c9;
     border: 1px solid #EA6E6E ;
 }
 
+.card-title{
+    font-size: 2.1rem;
+}
+
+.card-text{
+    font-size: 1.1rem;
+    margin-top: 1.6rem;
+    margin-bottom: 1.6rem;
+}
+
+.card{
+    border: none;
+}
+
+.small-div{
+    margin-top: 10rem;
+}
+
+footer{
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding-top: 2rem;
+}
+
+hr.light{
+    border-top: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+hr.light-last{
+    width: 100%;
+    border-top: 1px solid #d5d5d5;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
