@@ -35,3 +35,45 @@ html, body {
 .nav-item{
     text-transform: uppercase;
 }
+
+.tw,
+.in,
+.yt{
+    color: #2C2F35;
+}
+
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-youtube:hover{
+color: #c9c9c9;
+}
+
+.j1{
+    background: url("/Asset/image/bg.jfif");
+    height: 46rem;
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 50% 100%, 0 90%);
+}
+
+.display-4{
+    color: white;
+    position: relative;
+    margin-top: 15rem;
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    font-size: 3.2rem;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+
+.j2{
+    background-color: white;
+    /* margin: 6rem 14rem; */
+}
+
+.j2 p{
+    font-size: 2.3rem;
+}
+
