@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: #333333;
+}
+
+.navbar{
+    padding: 2.2rem;
+}
+
+.navbar-brand{
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.navbar-brand:hover{
+    font-style: italic;
+}
+
+.navbar-nav li{
+    padding: 0rem 0.7rem;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+.nav-item{
+    text-transform: uppercase;
+}
