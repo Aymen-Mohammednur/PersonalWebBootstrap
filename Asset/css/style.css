@@ -128,3 +128,15 @@ hr.light-last{
     margin-top: .8rem;
     margin-bottom: 1rem;
 }
+
+@media (min-width: 1200px) {
+    .big-div{
+        margin: 0rem 15rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    .j2{
+        margin: 0rem;
+    }
+}
