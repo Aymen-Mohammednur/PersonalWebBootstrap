@@ -45,8 +45,22 @@ html, body {
 
 .fa-twitter:hover,
 .fa-instagram:hover,
-.fa-youtube:hover{
+.fa-youtube:hover,
+.fa-facebook:hover{
 color: #c9c9c9;
+}
+
+.socials{
+    color: white;
+    font-size: 1.3rem;
+}
+
+.socials:hover{
+    color: #FFDE01;
+}
+
+footer a{
+    padding: 0rem 1rem;
 }
 
 .fabook,
@@ -122,9 +136,15 @@ color: #c9c9c9;
 }
 
 footer{
-    background-color: #3f3f3f;
-    color: #d5d5d5;
+    background-color: #26272B;
+    color: #c0c0c0;
     padding-top: 2rem;
+    padding-bottom: 0.5rem;
+    
+}
+
+footer h5{
+    color: white;
 }
 
 hr.light{
