@@ -36,6 +36,13 @@ html, body {
     text-transform: uppercase;
 }
 
+.navbar-nav li:hover{
+    background-color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: white;
+}
 .tw,
 .in,
 .yt{
@@ -235,4 +242,20 @@ hr.light-last{
     border: none;
     width: 200px;
     cursor: pointer;
+}
+
+.j3{
+    background-color: white;
+}
+
+.j3 p{
+    font-size: 5rem;
+}
+
+.blogcont{
+    margin-top: 5rem;
+}
+
+.ct-blog{
+    margin-top: 2.1rem;
 }
